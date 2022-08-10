@@ -1,4 +1,4 @@
-#include "main.h"
+#include "shell.h"
 
 /**
  * c_atoi - custom atoi converts string to int

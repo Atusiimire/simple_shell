@@ -1,4 +1,4 @@
-#include "main.h"
+#include "shell.h"
 /**
  * _strcat - concatenates two strings into the first one
  * @dest:  pointer to the first string

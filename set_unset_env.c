@@ -1,4 +1,4 @@
-#include "main.h"
+#include "shell.h"
 
 /**
  * find_env - find given environmental variable in linked list

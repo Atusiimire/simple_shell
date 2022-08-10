@@ -1,4 +1,4 @@
-#include "main.h"
+#include "shell.h"
 
 /**
  *  * c_strdup - custom string duplication; excludes beginning bytes
