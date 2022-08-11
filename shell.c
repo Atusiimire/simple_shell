@@ -3,7 +3,7 @@
 #include <stdlib.h>
 #include <sys/types.h>
 #include <sys/wait.h>
-#include "main.h"
+#include "shell.h"
 #include <unistd.h>
 #include <linux/limits.h>
 #include <limits.h>
